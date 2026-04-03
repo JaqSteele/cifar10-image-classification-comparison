@@ -1,8 +1,7 @@
-# CIFAR-10 Image Classification (CNN vs ResNet50)
+# CIFAR-10 Image Classification: CNN vs ResNet50
+This project compares the performance of a baseline Convolutional Neural Network (CNN) and a deeper ResNet50 architecture on the CIFAR-10 dataset.
 
 ## Overview
-
-This project compares a baseline Convolutional Neural Network (CNN) with a ResNet50-based model on the CIFAR-10 image classification dataset.
 
 The aim was to evaluate how model complexity affects classification performance on a standard multi-class computer vision benchmark, using accuracy, precision, recall, and F1-score as evaluation metrics. 
 
@@ -26,6 +25,12 @@ The models produced the following results on CIFAR-10:
 The ResNet50-based model showed a clear performance improvement over the baseline CNN across all evaluation metrics.
 
 ResNet50 significantly outperformed the baseline CNN, demonstrating the effectiveness of deeper architectures for image classification tasks.
+
+## Key Results
+
+- CNN achieved ~69% accuracy
+- ResNet50 achieved ~88% accuracy
+- ResNet50 significantly outperformed the baseline model
 
 ## Outputs
 
@@ -51,8 +56,6 @@ Note: trained model weight files are not included in the repository due to file 
 * Pandas
 * Matplotlib
 
-
-
 ## Purpose
 
 This project demonstrates:
@@ -61,3 +64,5 @@ This project demonstrates:
 * Deep learning fundamentals
 * Evaluation metrics (accuracy, precision, recall, F1-score)
 
+## Note
+This project was developed as part of my MSc studies and demonstrates deep learning model comparison on image classification tasks.
