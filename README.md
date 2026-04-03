@@ -49,7 +49,7 @@ Note: trained model weight files are not included in the repository due to file 
 
 \### CNN Learning Curve
 
-!\[CNN Learning Curve](results/cnn\_learning\_curve.png)
+!\[CNN Learning Curve](./results/cnn\_learning\_curve.png)
 
 
 
