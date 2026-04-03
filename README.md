@@ -23,7 +23,9 @@ The models produced the following results on CIFAR-10:
 |CNN|0.6912|0.6966|0.6912|0.6926|
 |ResNet50|0.8804|0.8828|0.8804|0.8796|
 
-The results showed a clear performance improvement when using the ResNet50-based model compared with the baseline CNN.
+The ResNet50-based model showed a clear performance improvement over the baseline CNN across all evaluation metrics.
+
+ResNet50 significantly outperformed the baseline CNN, demonstrating the effectiveness of deeper architectures for image classification tasks.
 
 ## Outputs
 
@@ -38,6 +40,16 @@ The repository includes:
 
 
 Note: trained model weight files are not included in the repository due to file size constraints.
+
+
+
+## Example Output
+
+
+
+\### CNN Learning Curve
+
+!\[CNN Learning Curve](results/cnn\_learning\_curve.png)
 
 
 
