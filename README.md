@@ -37,12 +37,19 @@ The repository includes:
 
 
 
-Note: trained model weight files are not included in the repository due to file size constraints. Tech Used
+Note: trained model weight files are not included in the repository due to file size constraints.
+
+
+
+## Technologies Used
 
 * Python
 * TensorFlow / Keras
-* NumPy / Pandas
+* NumPy
+* Pandas
 * Matplotlib
+
+
 
 ## Purpose
 
