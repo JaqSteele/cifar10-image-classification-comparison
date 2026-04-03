@@ -43,16 +43,6 @@ Note: trained model weight files are not included in the repository due to file 
 
 
 
-## Example Output
-
-
-
-\### CNN Learning Curve
-
-!\[CNN Learning Curve](results/cnn\_learning\_curve.png)
-
-
-
 ## Technologies Used
 
 * Python
