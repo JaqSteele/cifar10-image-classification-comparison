@@ -32,6 +32,8 @@ ResNet50 significantly outperformed the baseline CNN, demonstrating the effectiv
 - ResNet50 achieved ~88% accuracy
 - ResNet50 significantly outperformed the baseline model
 
+ResNet50 demonstrates the benefit of deeper architectures for image classification tasks compared to baseline CNN models.
+
 ## Outputs
 
 The repository includes:
